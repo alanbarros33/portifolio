@@ -381,11 +381,11 @@ elif selection == "Projetos":
         st.markdown(""" 
         ### Análise de custo de aluguel
         Análise feita para o curso de análise de dados e inteligência artificial da Universidade Federal do Maranhão.
-        [🔗 Ver Projeto](https://www.linkedin.com/in/alan-barros/)
+        [🔗 Ver Projeto](https://dashufmav5-3u2ic5yjy38tmxzjka83ri.streamlit.app/)
 
         ### Análise de Performance no Instagram
         Criação de um dashboard no Streamlit que compara dados do Instagram de qualquer perfil solicitado com o perfil do usuário e gera um relatório simples. Oferece um relatório mais detalhado mediante compra.
-        [🔗 Ver Projeto](https://www.linkedin.com/in/alan-barros/)
+        [🔗 Ver Projeto](https://bn9xtzmakupwckg4aatsjm.streamlit.app/)
 
         ### Custo de Reuniões
         Um projeto para calcular o custo de reuniões em empresas, focando na redução de custos operacionais e aumento da eficiência.
