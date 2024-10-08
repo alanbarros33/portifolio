@@ -400,7 +400,7 @@ elif selection == "Contato":
     with st.expander("📧 Contato", expanded=True):
         st.markdown("""
         Estou sempre aberto a novas oportunidades e colaborações! 
-        📩 **Email:** alan.barros@email.com
+        📩 **Email:** alanbarros33f@gmail.com
         📱 **LinkedIn:** [alan-barros](https://www.linkedin.com/in/alan-barros/)
-        💼 **GitHub:** [alan-barros](https://github.com/alan-barros)
+        💼 **GitHub:** [alan-barros](https://github.com/alanbarros33)
         """)
