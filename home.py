@@ -389,11 +389,11 @@ elif selection == "Projetos":
 
         ### Custo de Reuniões
         Um projeto para calcular o custo de reuniões em empresas, focando na redução de custos operacionais e aumento da eficiência.
-        [🔗 Ver Projeto](https://www.linkedin.com/in/alan-barros/)
+        [🔗 Ver Projeto](https://nallawhapp.streamlit.app/)
 
         ### Análise de Conversas do WhatsApp
         Projeto que analisa conversas de grupos do WhatsApp, com a intenção de apresentar insights divertidos sobre as interações.
-        [🔗 Ver Projeto](https://nalawhapp.streamlit.app/)
+        [🔗 Ver Projeto](https://nallawhapp.streamlit.app/)
         """)
 
 elif selection == "Contato":
