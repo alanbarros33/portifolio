@@ -393,7 +393,7 @@ elif selection == "Projetos":
 
         ### Análise de Conversas do WhatsApp
         Projeto que analisa conversas de grupos do WhatsApp, com a intenção de apresentar insights divertidos sobre as interações.
-        [🔗 Ver Projeto](https://www.linkedin.com/in/alan-barros/)
+        [🔗 Ver Projeto](https://nalawhapp.streamlit.app/)
         """)
 
 elif selection == "Contato":
